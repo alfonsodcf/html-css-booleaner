@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4fa0ff;
+    height: 120px;
+    background-size: 25%;
+
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+header img{
+    width: 200px;
+    margin-top: 50px;
+}
+
+main h1{
+    margin-top: 10px;
+}
+
+.sotto-titolo{
+    color: rgb(117, 117, 117);
+}
+.giornalista{
+    color: #00d9ff;
+}
