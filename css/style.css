@@ -26,7 +26,74 @@ main h1{
 
 .sotto-titolo{
     color: rgb(117, 117, 117);
+    margin: 0;
+    font-size: 15px;
+    
 }
 .giornalista{
     color: #00d9ff;
+}
+
+main p {
+    margin-top: 10px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+ul{
+    margin-bottom: 20px;
+    margin-left: 19px;
+}
+main li{
+    font-size: 18px;
+    
+}
+
+.t1{
+    width: 25%;
+}
+.t2{
+    width: 25%;
+}
+
+table{
+    border-spacing: 0;
+}
+
+.trt{
+    background-color: #4fa0ff;
+    color: white;
+}
+
+.trp{
+    background-color: #5aa3df;
+}
+
+aside h2{
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: rgb(143, 143, 143);
+}
+ 
+h3{
+    padding: 10px;
+}
+
+aside div{
+    width: 250px;
+    height: 160px;
+    margin-bottom: 10px;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+    color: white;
 }
